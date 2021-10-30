@@ -8,5 +8,5 @@ Additionally, this website is used as a source for all the homebrew world buildi
 
 To move from here, select one of the following:
 * [Posts](./posts.html)
-* [Arakat](./arakat/index.md)
-* [Ankorra](./ankorra.html)
+* [Arakat](./arakat/index.html)
+* [Ankorra](./ankorra/index.html)
