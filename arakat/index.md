@@ -5,7 +5,7 @@ Arakat is my second homebrew, a continent for a campaign of 8 players with the a
 
 ## Divisions
 
-* [Gargonian Empire](./gargonian.html)
+* [Gargonian Empire](./gargonian/index.html)
 * [Pangolian Empire](./pangolian.html)
 * [Wild Wasteland](./wasteland.html)
 * [Sunrise Archipelago](./sunrise.html)
