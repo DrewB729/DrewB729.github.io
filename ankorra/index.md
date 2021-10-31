@@ -3,14 +3,14 @@ Ankorra is my first homebrew world, made for a campaign of 4 players and primari
 
 Continents:
 
-* [Ashdale](./ashdale.html)
+* [Ashdale](./ashdale/index.html)
 * [Boropa](./boropa.html)
 * [Kiria](./kiria.html)
 * [Morket](./morket.html)
-* [Rangroth](./rangroth.html)
+* [Rangroth](./rangroth/index.html)
 * [Targoda](./targoda.html)
 * [Winter's Veil](./winters-veil.html)
 * [Zardia](./zardia.html)
 
 Other nations:
-* [Fengrir](./fengrir.html)
+* [Fengrir](./fengrir/index.html)
