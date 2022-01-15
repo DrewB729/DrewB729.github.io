@@ -1,0 +1,10 @@
+# Traps
+* * *
+
+Everyone loves the Indiana Jones scene where he's running away from a boulder running down the slope behind him, the sense of adrenaline and impending doom as it slowly catches up with him really makes the audience hang on the end of their seats. But think of all the smaller traps he also evaded: poison darts, snake pits, spikes, swinging axes. All these traps he dodged were sure to cause instant death to any normal human. But with the combination of high fantasy and magic, how do traps in D&D work, and how do you keep them fun in your games?
+
+## Trap types
+With the introduction of magic, a question to be asked when wanting to include a trap inside one of your game is what kind of trap are you wanting to include, which often comes with the consideration of it's "power level". The type of trap you choose can affect whether there is damage dealt at all, a condition effect or even an alarm system. These traps also need to be kept in line with the theme of your campaigns. In high magic campaigns, there are going to lots of mages trying to protect their hoard, so would use spells such as *glyph of warding* or *symbol*. However, in a low magic campaign, only those with extreme power are going to have access to these glyphs, so many prefer the good old methods of strings taut 6 inches off the floor and an arrow trap. It's up to you as a DM to decide what kind of enemies your party are going to face and thus what kind of traps these enemies would have, but you can also keep in consideration that some creatures notice these traps when inhabiting a new dungeon, and decide to keep it for unwelcome visitors.
+
+## Trap damage
+ For example, a small poison trap for your level 2 group is going to vastly differ to the poison trap for your level 16 party. In the DMG .................................... - INCLUDE REFERENCE HERE - ........................ Additionally,
